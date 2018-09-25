@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537866671 source:d:\master\helloworld.c
+	<stdio.h>
+	<stdlib.h>
+
+1537866788 source:d:\master\linklist.c
+	<stdio.h>
+	<stdlib.h>
+
